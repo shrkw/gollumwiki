@@ -1,7 +1,11 @@
 #ヘッダ
-    SVNPath
+
+ SVNPath
+
 と
-    SVNParentPath
+
+ SVNParentPath
+
 は違う！
 後者は読んで字のごとく、リポジトリのペアレントパスを設定するんだ！
 超はまったぜ！
