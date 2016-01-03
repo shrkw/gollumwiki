@@ -1,6 +1,10 @@
 hoge hoge
 first page
 
-<<SampleM()>>
+## Last Updated
+
+<<AllPagesLastUpdated()>>
+
+## All Pages
 
 <<AllPageLinks()>>
