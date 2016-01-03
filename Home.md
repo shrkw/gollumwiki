@@ -1,4 +1,4 @@
 hoge hoge
 first page
 
-<<AllPages()>>
+<<MyAllPages()>>
