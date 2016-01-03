@@ -1,2 +1,4 @@
 **fugafuga**
 edit
+
+<<AllPagesLastUpdated()>>
