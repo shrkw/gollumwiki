@@ -1,3 +1,7 @@
 # piyopiyo
 
 aaaaa
+
+<< Navigation() >>
+
+<< GlobalTOC()>>
